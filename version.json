@@ -1,6 +1,6 @@
 {
-  "version": "4.3.0+2",
+  "version": "4.4.0+3",
   "url": "https://github.com/emmanuelavetta/DiaryUpDate/releases/latest/download/app-release.apk",
-  "notes": "Nuova modale di esportazione CSV/PDF con filtri per periodo e parole chiave; CSV compatibile con Excel; pulsante Adesso per la data di fine evento; correzioni varie.",
-  "sha256": "3b1ff599544659a7478131c8ef037446723ca5aad55d06d36770966b915bcdf1"
+  "notes": "Clona diario (solo struttura o struttura + dati); campi comuni configurabili per diario (data fine, tempo totale, note); export unificato con scelta colonne data/tempo; elenco icone completo.",
+  "sha256": "917be5dee3423d4921ec6f4eb6ea19a86373b57594a91fcd73b60e08f80330e5"
 }

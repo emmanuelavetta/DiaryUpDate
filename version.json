@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0+4",
+  "version": "4.5.1+5",
   "url": "https://github.com/emmanuelavetta/DiaryUpDate/releases/latest/download/app-release.apk",
-  "notes": "Archiviazione diari: archivia/ripristina dalla selezione o dal menu del diario, interruttore per mostrare gli archiviati nella home con icona dedicata. La home si chiama ora Diari.",
-  "sha256": "f3523f1f451378b85e751684b3904cfcee5a03664ab4c5223f8acda528f4f88b"
+  "notes": "Correzione: il messaggio con Annulla dopo l'archiviazione di un diario ora scompare da solo.",
+  "sha256": "8f385c6b87268802de41c70981c2ba6c3d831d6cdf758aa87464a4319536a04a"
 }

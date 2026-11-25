@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0+3",
+  "version": "4.5.0+4",
   "url": "https://github.com/emmanuelavetta/DiaryUpDate/releases/latest/download/app-release.apk",
-  "notes": "Clona diario (solo struttura o struttura + dati); campi comuni configurabili per diario (data fine, tempo totale, note); export unificato con scelta colonne data/tempo; elenco icone completo.",
-  "sha256": "917be5dee3423d4921ec6f4eb6ea19a86373b57594a91fcd73b60e08f80330e5"
+  "notes": "Archiviazione diari: archivia/ripristina dalla selezione o dal menu del diario, interruttore per mostrare gli archiviati nella home con icona dedicata. La home si chiama ora Diari.",
+  "sha256": "f3523f1f451378b85e751684b3904cfcee5a03664ab4c5223f8acda528f4f88b"
 }
